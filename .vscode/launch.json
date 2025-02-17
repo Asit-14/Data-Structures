@@ -1,0 +1,884 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BuySellStocks",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.BuySellStocks",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Buy_sell",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.Buy_sell",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "KadansAlgoSumarray",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.KadansAlgoSumarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.MaxSubarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Moves_Zero",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.Moves_Zero",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Pascal_Triangle",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.Pascal_Triangle",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Kth_Right",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.Rotate_Kth_Right",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_012",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.Sorted_012",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "TrappingWater",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.TrappingWater",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "majority_element",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.majority_element",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "maximum_consicutive",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.maximum_consicutive",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "union_sorted",
+            "request": "launch",
+            "mainClass": "Arrays.Hard.union_sorted",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ArrangingNumber",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.ArrangingNumber",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ContinuousSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.ContinuousSubarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "CountMax",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.CountMax",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSearch",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.MatrixSearch",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "RearrangeElements",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.RearrangeElements",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicates",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.Remove_Duplicates",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.ReverseArray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.Rotate_Array",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_kth_Left",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.Rotate_kth_Left",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "kadan_algorithm",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.kadan_algorithm",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "missing_number",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.missing_number",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "pair_count",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.pair_count",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "pairs",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.pairs",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.subarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "subarray_sum",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.subarray_sum",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "sumarray",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.sumarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBracket",
+            "request": "launch",
+            "mainClass": "BalancedBracket",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly",
+            "request": "launch",
+            "mainClass": "Butterfly",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Check_sort",
+            "request": "launch",
+            "mainClass": "Check_sort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Consecutiveones",
+            "request": "launch",
+            "mainClass": "Consecutiveones",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "CookiesSize",
+            "request": "launch",
+            "mainClass": "CookiesSize",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Diamond",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "FindMinimum",
+            "request": "launch",
+            "mainClass": "FindMinimum",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ArraySubset",
+            "request": "launch",
+            "mainClass": "GFG.ArraySubset",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Equilibrium_Point",
+            "request": "launch",
+            "mainClass": "GFG.Equilibrium_Point",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "MissingArray",
+            "request": "launch",
+            "mainClass": "GFG.MissingArray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Searchmatrix",
+            "request": "launch",
+            "mainClass": "GFG.Searchmatrix",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFord",
+            "request": "launch",
+            "mainClass": "Graph.BellmanFord",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack01Problem",
+            "request": "launch",
+            "mainClass": "Knapsack01Problem",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Largest_element",
+            "request": "launch",
+            "mainClass": "Largest_element",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "LargestmongN",
+            "request": "launch",
+            "mainClass": "LargestmongN",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "kth_missing",
+            "request": "launch",
+            "mainClass": "Leetcode.kth_missing",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "max_chunks769",
+            "request": "launch",
+            "mainClass": "Leetcode.max_chunks769",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "special_descount",
+            "request": "launch",
+            "mainClass": "Leetcode.special_descount",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "string_difference",
+            "request": "launch",
+            "mainClass": "Leetcode.string_difference",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch2",
+            "request": "launch",
+            "mainClass": "LinearSearch2",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "MinimumSwaps",
+            "request": "launch",
+            "mainClass": "MinimumSwaps",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Add",
+            "request": "launch",
+            "mainClass": "Minimum_Add",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Parentheses_Valid",
+            "request": "launch",
+            "mainClass": "Minimum_Parentheses_Valid",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Prefix_count",
+            "request": "launch",
+            "mainClass": "Prefix_count",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "SOLID_RHOMBUS",
+            "request": "launch",
+            "mainClass": "SOLID_RHOMBUS",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Search_insert",
+            "request": "launch",
+            "mainClass": "Search_insert",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Selection_Sort",
+            "request": "launch",
+            "mainClass": "Selection_Sort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ShellSort",
+            "request": "launch",
+            "mainClass": "ShellSort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Sqare4",
+            "request": "launch",
+            "mainClass": "Sqare4",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Parentheses",
+            "request": "launch",
+            "mainClass": "Valid_Parentheses",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "arraysum",
+            "request": "launch",
+            "mainClass": "arraysum",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "backnToone",
+            "request": "launch",
+            "mainClass": "backnToone",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "backoneTon",
+            "request": "launch",
+            "mainClass": "backoneTon",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binTodec",
+            "request": "launch",
+            "mainClass": "binTodec",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binars",
+            "request": "launch",
+            "mainClass": "binars",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_end",
+            "request": "launch",
+            "mainClass": "binary_end",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_left",
+            "request": "launch",
+            "mainClass": "binary_left",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_not",
+            "request": "launch",
+            "mainClass": "binary_not",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_or",
+            "request": "launch",
+            "mainClass": "binary_or",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_right",
+            "request": "launch",
+            "mainClass": "binary_right",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "binary_xor",
+            "request": "launch",
+            "mainClass": "binary_xor",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "change_coin",
+            "request": "launch",
+            "mainClass": "change_coin",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "character",
+            "request": "launch",
+            "mainClass": "character",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "closest_pair_sum",
+            "request": "launch",
+            "mainClass": "closest_pair_sum",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "count_pairsum",
+            "request": "launch",
+            "mainClass": "count_pairsum",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "decTobin",
+            "request": "launch",
+            "mainClass": "decTobin",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "double_exist",
+            "request": "launch",
+            "mainClass": "double_exist",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "find_element",
+            "request": "launch",
+            "mainClass": "find_element",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "firstindex",
+            "request": "launch",
+            "mainClass": "firstindex",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "floyde",
+            "request": "launch",
+            "mainClass": "floyde",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "half_pyramid",
+            "request": "launch",
+            "mainClass": "half_pyramid",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "hollow_rambus",
+            "request": "launch",
+            "mainClass": "hollow_rambus",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "hollow_rectangular",
+            "request": "launch",
+            "mainClass": "hollow_rectangular",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "inc_one",
+            "request": "launch",
+            "mainClass": "inc_one",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "inverted_half",
+            "request": "launch",
+            "mainClass": "inverted_half",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "inverted_roted",
+            "request": "launch",
+            "mainClass": "inverted_roted",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "issorted",
+            "request": "launch",
+            "mainClass": "issorted",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "keep_multiplying",
+            "request": "launch",
+            "mainClass": "keep_multiplying",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "lastindex",
+            "request": "launch",
+            "mainClass": "lastindex",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "linear_search",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "linearseach",
+            "request": "launch",
+            "mainClass": "linearseach",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "nToone",
+            "request": "launch",
+            "mainClass": "nToone",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "number_occurence",
+            "request": "launch",
+            "mainClass": "number_occurence",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "number_sqaaure1",
+            "request": "launch",
+            "mainClass": "number_sqaaure1",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "number_sqaure",
+            "request": "launch",
+            "mainClass": "number_sqaure",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "oneTon",
+            "request": "launch",
+            "mainClass": "oneTon",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "operation",
+            "request": "launch",
+            "mainClass": "operation",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "printName",
+            "request": "launch",
+            "mainClass": "printName",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "printdecresing",
+            "request": "launch",
+            "mainClass": "printdecresing",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "printincdec",
+            "request": "launch",
+            "mainClass": "printincdec",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "printincreasing",
+            "request": "launch",
+            "mainClass": "printincreasing",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "printskip",
+            "request": "launch",
+            "mainClass": "printskip",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "reverse_pattern",
+            "request": "launch",
+            "mainClass": "reverse_pattern",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "reverse_sqare",
+            "request": "launch",
+            "mainClass": "reverse_sqare",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "simplesqure",
+            "request": "launch",
+            "mainClass": "simplesqure",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "square3",
+            "request": "launch",
+            "mainClass": "square3",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "star_patter",
+            "request": "launch",
+            "mainClass": "star_patter",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "string_matching",
+            "request": "launch",
+            "mainClass": "string_matching",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "while_pattern",
+            "request": "launch",
+            "mainClass": "while_pattern",
+            "projectName": "Data-Structures_6121bca"
+        }
+    ]
+}
